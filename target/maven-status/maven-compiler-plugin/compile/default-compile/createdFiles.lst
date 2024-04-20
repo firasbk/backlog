@@ -1,0 +1,11 @@
+com\task\ddd\entity\BacklogItem.class
+com\task\ddd\entity\TenantId.class
+com\task\ddd\entity\ConcurrencySafeEntity.class
+com\task\ddd\entity\BacklogItemId.class
+com\task\ddd\repository\BacklogItemRepository.class
+com\task\ddd\service\ProductBacklogItemService.class
+com\task\ddd\entity\TaskId.class
+com\task\ddd\entity\Team.class
+com\task\ddd\repository\TeamRepository.class
+com\task\ddd\DddApplication.class
+com\task\ddd\entity\TeamMemberId.class
